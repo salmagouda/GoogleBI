@@ -9,3 +9,8 @@ Google Fiber Capstone Project:
 3. Data wrangling and manipulation in Google BigQuery.
 4. Data Visualization in Tableau software.
 5. Uploading to github using git (version control)
+
+## Google Fiber Repeat Calls Dashboard
+
+View the dashboard [here](https://public.tableau.com/app/profile/salma.gouda/viz/GoogleBusinessIntlligenceGoogleFiberRepeatCalls/RepeatCalls).
+
